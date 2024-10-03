@@ -11,4 +11,4 @@ FRA,2019-08-26,1234,124
 Please notice that the p95 is the 95th percentile, given the response time for the requests. 
 
 After generating the report, you should trigger an alert by email (to the person responsible for the tech interview) if the p95 for a given country was above 200ms for some URL. 
-You should provide the country ISO name and the p95 on the Slack message. 
+You should provide the country ISO name and the p95 on the email message. 
